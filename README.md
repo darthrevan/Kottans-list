@@ -7,6 +7,7 @@
 - [Denis Yagofarov](https://github.com/denyago) https://de.linkedin.com/in/denyago
 - [Julia Budnik](https://github.com/mayosh)
 - [Denis Yagofarov](https://github.com/denyago) https://de.linkedin.com/in/denyago
+- [Elena Morgun](https://github.com/darthrevan) https://www.linkedin.com/in/elenamorgun/en
 
 #Kottans friends:
 - [Eldar Djafarov](https://github.com/edjafarov) https://ua.linkedin.com/in/edjafarov
