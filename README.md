@@ -8,6 +8,8 @@
 - [Julia Budnik](https://github.com/mayosh)
 - [Denis Yagofarov](https://github.com/denyago) https://de.linkedin.com/in/denyago
 - [Elena Morgun](https://github.com/darthrevan) https://www.linkedin.com/in/elenamorgun/en
+- [Ihor Kroosh] (https://github.com/tilast) https://ua.linkedin.com/in/ikroosh
+- [Denis Sergienko] (https://github.com/ololyay) https://www.linkedin.com/in/denis-sergienko-07b768a7
 
 #Kottans friends:
 - [Eldar Djafarov](https://github.com/edjafarov) https://ua.linkedin.com/in/edjafarov
